@@ -16,6 +16,7 @@ Micro-USB Cable
 
 I used a mini breadboard to put everything together, and also used Apple Watch band to make it wearable.
 
-![IMG_3330](https://user-images.githubusercontent.com/102000475/159205522-625a8bad-22f7-40fb-87a7-0e77aa46cbf1.jpg)
+
+![final](https://user-images.githubusercontent.com/102000475/168391165-af241a49-ac01-41e8-813e-0e0e86bf1a41.jpg)
 
 ![截屏2022-03-21 上午12 27 04](https://user-images.githubusercontent.com/102000475/159205527-59299e9a-af78-41df-a73e-5237ba689117.png)
