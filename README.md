@@ -19,5 +19,4 @@ I used a mini breadboard to put everything together, and also used Apple Watch b
 
 ![final](https://user-images.githubusercontent.com/102000475/168391165-af241a49-ac01-41e8-813e-0e0e86bf1a41.jpg)
 
-![IMG_3330](https://user-images.githubusercontent.com/102000475/168391254-4f6943a5-7240-41b4-983b-589ec0472433.jpg)
 
